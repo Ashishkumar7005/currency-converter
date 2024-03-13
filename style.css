@@ -49,6 +49,7 @@ form input{
     font-size: 17px;
     padding: 0 15px;
     border: 1px solid #999;
+    width: 100%;
 }
 
 form input:focus{
